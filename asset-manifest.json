@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio_Mariem-main/static/css/main.a69f3950.css",
-    "main.js": "/Portfolio_Mariem-main/static/js/main.ab5d209c.js",
+    "main.js": "/Portfolio_Mariem-main/static/js/main.f0ef3207.js",
     "static/js/453.1407b060.chunk.js": "/Portfolio_Mariem-main/static/js/453.1407b060.chunk.js",
     "static/media/project_2_1.png": "/Portfolio_Mariem-main/static/media/project_2_1.5f64d648f4f006c8e4a0.png",
     "static/media/project_1_8.jpg": "/Portfolio_Mariem-main/static/media/project_1_8.c263ba18c561e8b06dae.jpg",
@@ -29,11 +29,11 @@
     "static/media/javascript.svg": "/Portfolio_Mariem-main/static/media/javascript.acc4642f682cd93a4c20a8a02c0cfa21.svg",
     "static/media/react.svg": "/Portfolio_Mariem-main/static/media/react.85da6d00122a1f106d73a4beedbac705.svg",
     "main.a69f3950.css.map": "/Portfolio_Mariem-main/static/css/main.a69f3950.css.map",
-    "main.ab5d209c.js.map": "/Portfolio_Mariem-main/static/js/main.ab5d209c.js.map",
+    "main.f0ef3207.js.map": "/Portfolio_Mariem-main/static/js/main.f0ef3207.js.map",
     "453.1407b060.chunk.js.map": "/Portfolio_Mariem-main/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a69f3950.css",
-    "static/js/main.ab5d209c.js"
+    "static/js/main.f0ef3207.js"
   ]
 }
